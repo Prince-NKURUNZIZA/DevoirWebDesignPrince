@@ -1,6 +1,4 @@
-/*
-CSS Credit: http://www.templatemo.com/
-*/
+
 
 body {
 	margin: 0;
@@ -11,7 +9,12 @@ body {
 	color: #000000;
 	background: #4b4c3e url(images/templatemo_main_bg.jpg) repeat;
 }
-		
+	.personnel{
+background-color:teal;
+	}	
+	h1 {
+		text-shadow: 2px 2px 5px red;
+	}
 a:link, a:visited { color: #f1f118; text-decoration: underline; font-weight: normal;} 
 a:active, a:hover { color: #f1f118; text-decoration: none;}
 
